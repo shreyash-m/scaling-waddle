@@ -12,7 +12,7 @@ This is a web-based food delivery application built using the MERN (MongoDB, Exp
 - Order history and ratings and reviews system.
 
 **Technologies Used:**
-- Front-end: React.js, Redux for state management, Bootstrap for responsive design.
+- Front-end: React.js, Redux for state management, Bootstrap and tailwind CSS for responsive design.
 - Back-end: Node.js, Express.js, MongoDB for data storage.
 - Authentication: JSON Web Tokens (JWT).
 - Payment Integration: Stripe for secure payment processing.
